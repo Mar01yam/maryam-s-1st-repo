@@ -1,0 +1,14 @@
+Q: what is repository?
+Ans: repo is the folder that github has.
+Q: What is the Git command to make a copy of a repo to your laptop?
+Ans: clone.
+Q: What is the Git command to send your code to Github?
+Ans: Push
+Q: What does the -m in a Git commit command mean or do?
+Ans: -m it means adding a message.
+ Q: What is the Git command for making a commit?
+Ans: git commit -m "some message"
+Q: What is the Git command to put your files in the staging area?
+Ans: git add .
+Q: What does origin stand for when pushing you code?
+Ans: it stands link from repo 
